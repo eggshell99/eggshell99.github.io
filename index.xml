@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Visualization World</title>
+    <link>/</link>
+    <description>Recent content on Data Visualization World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why should we set up this website? </title>
+      <link>/post/readme/</link>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/readme/</guid>
+      <description>With the increasing importance of data visualization in today&amp;rsquo;s world, there is a growing need for a platform that can help people learn and master this skill. Setting up a website dedicated to data visualization can be a great way to provide a platform for people to learn and share their knowledge.
+The website can be designed in a way that provides a comprehensive guide to data visualization. It can include tutorials, articles, and videos that cover various aspects of data visualization, such as choosing the right chart type, creating effective visualizations, and interpreting data.</description>
+    </item>
+    
+    <item>
+      <title>选择你喜欢的可视化工具</title>
+      <link>/2023/07/04/third-article/</link>
+      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/07/04/third-article/</guid>
+      <description>“choose one of them you like ” 非常多的工具能够实现五彩缤纷的可视化图表 Tableau是一种数据可视化和商业智能工具，它可以将数据转化为易于理解和</description>
+    </item>
+    
+    <item>
+      <title>常用数据分析可视化图表解析之【Bar】</title>
+      <link>/2023/06/10/second-article/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/06/10/second-article/</guid>
+      <description>“Yeah It&amp;rsquo;s on. ” 看懂数据可视化各种图&amp;ndash;条形图，柱状图，直方图 绘制图形的第一步要去了解各个图形使用的场景，表达的意义，以及反映了数</description>
+    </item>
+    
+    <item>
+      <title>常用数据分析可视化图表解析之【Pie】</title>
+      <link>/2023/06/04/first-article/</link>
+      <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/06/04/first-article/</guid>
+      <description>“Yeah It&amp;rsquo;s on. ” 看懂数据可视化各种图&amp;ndash;饼图，圆环图，南丁格尔玫瑰图 数据可视化有众多展现方式，不同的数据类型要选择适合的展现方法。</description>
+    </item>
+    
+    <item>
+      <title>意大利留学</title>
+      <link>/2019/10/23/abroad-Italy/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/23/abroad-Italy/</guid>
+      <description>非常值得纪念。</description>
+    </item>
+    
+    <item>
+      <title>Istio v1aplha3 routing API介绍(译文）</title>
+      <link>/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</guid>
+      <description>&lt;p&gt;到目前为止，Istio提供了一个简单的API来进行流量管理，该API包括了四种资源：RouteRule，DestinationPolicy，EgressRule和Ingress（直接使用了Kubernets的Ingress资源）。借助此API，用户可以轻松管理Istio服务网格中的流量。该API允许用户将请求路由到特定版本的服务，为弹性测试注入延迟和失败，添加超时和断路器等等，所有这些功能都不必更改应用程序本身的代码。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>About Me Hi, I am Su Wenjie, lecturer, graduated from the University of Pavia in Italy with a master&amp;rsquo;s degree in machine learning and data analysis. I am currently a full-time teacher at the School of Computer Engineering, serving as a major in big data management and application, specializing in three courses: &amp;ldquo;Python Programming&amp;rdquo;, &amp;ldquo;Data Structure and Algorithms (Python Language)&amp;rdquo;, and &amp;ldquo;Business Data Analysis&amp;rdquo;. Scientific research topics Provincial collaborative education</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/notes/</guid>
+      <description>大学慕课-寻找你喜欢的课程 对分易-分课堂-学习资源</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/search/placeholder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/search/placeholder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts Archive</title>
+      <link>/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/archive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
